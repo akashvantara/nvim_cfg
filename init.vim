@@ -4,10 +4,10 @@ set noexpandtab
 set tabstop=4
 set shiftwidth=4
 set relativenumber
-set number
+" set number
 
 " Init lua
 :lua require('init')
 
-colorscheme medic_chalk
+colorscheme slate
 "source $HOME/.config/nvim/vim-plugs.vim
